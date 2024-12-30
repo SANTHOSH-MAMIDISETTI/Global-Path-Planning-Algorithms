@@ -1,0 +1,7 @@
+# method: "djikstras"
+method: "astar"
+# method: "rrt"
+start: [250, 250]
+goal: [500, 250]
+map: "map1"
+# map: "map2"
