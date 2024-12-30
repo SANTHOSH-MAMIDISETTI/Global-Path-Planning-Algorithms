@@ -43,7 +43,7 @@ path_finding
 
 ### RRT
 
-![RRT](images/rrt.png)
+![RRT](path_finding/images/rrt.png)
 
 * Explores the space using a tree of random nodes.
 * Terminates if a direct obstacle-free connection to the goal is found.
